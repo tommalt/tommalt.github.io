@@ -1,0 +1,45 @@
+---
+---
+
+/* ??? */
+
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit: 30px !default;
+$content-width: 60%;
+
+
+/* Colors */
+
+$text-color: #111 !default;
+$background-color: #FFFFEA !default;
+$brand-color: #000 !default;
+
+/* light pink
+$brand-color: #F6A3A4 !default;
+   dark pink
+$brand-color: #AC6063 !default;
+   light blue
+$brand-color: #93D5D9 !default;
+   indigo
+$brand-color: #7A85C1 !default;
+*/
+
+$grey-color: #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$shadow-color: #444444 !default;
+
+
+/* Functions */
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+@import "main";

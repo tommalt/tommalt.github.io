@@ -1,0 +1,156 @@
+
+/* reset */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+/* base styling */
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-color;
+  background-color: $background-color;
+}
+
+/* adds vertical spacing between elements */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+  margin-bottom: $spacing-unit / 2;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/* lists */
+ul, ol {
+  margin-left: $spacing-unit;
+}
+
+li {
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
+}
+
+/* links */
+a {
+  color: $shadow-color;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $text-color;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 120%;
+}
+
+/*
+a {
+  color: $grey-color-dark;
+  text-decoration: none;
+  &:visited {
+    color: darken($brand-color, 15%);
+  }
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 120%;
+  }
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+*/
+
+/* blockquote */
+blockquote {
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  @include relative-font-size(1.125);
+  letter-spacing: -1px;
+  font-style: italic;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+/* Icons */
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: #{$grey-color};
+    padding-right: 5px;
+    vertical-align: text-top;
+}
+
+.social-media-list {
+  li + li {
+    padding-top: 5px;
+  }
+}
+
+/* Styling ID's and Classes */
+
+/**
+ * Header
+ */
+#main-title {
+  color: $text-color;
+  font-weight: bold;
+  font-size: 100px;
+  line-height: 100px;
+}
+#main-title a {
+  color: $text-color;
+}
+
+/**
+ * Main
+ */
+.page-content .side{
+  max-width: $content-width;
+}
+.page-content .sidebar {
+  width: 10%;
+  float: left;
+  text-align: right;
+  overflow: hidden;
+  padding: 0 1em 0 2em;
+  border-right: 1px solid black;
+}
+.page-content .wrapper {
+  width: 85%;
+  float: left;
+  overflow: hidden;
+}
+.page-content .wrapper .text-wrapper {
+  margin: 0 15% 0 5%;
+}
+
+/**
+ * Footer
+ */
+.site-footer {
+  clear: both;
+  text-align: center;
+}
+.site-footer div {
+  padding-top: 10%;
+}
+

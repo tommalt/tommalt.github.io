@@ -1,0 +1,46 @@
+---
+layout: post
+title: Genesis
+---
+
+While reading through [De Officiis](https://www.amazon.com/Obligations-Officiis-Oxford-Worlds-Classics/dp/0199540713){:target="_blank"},
+I was impressed by Cicero's ability to articulate and convey his ideas in
+such a concise and elegant manner. His writing style is short-and-sweet, lacking superfluous detail.  
+
+Simultaneously, I became conscious of my ineptitude in that regard.
+When I'm not careful and speak without contemplation,
+I end up [stuttering like a bumbling idiot](https://www.youtube.com/watch?v=k4ZNp9jKsps){:target="_blank"}
+and fail to formulate and convey a coherent argument.
+
+It's important to clarify that the problem I'm describing here is greater than
+just finding the _right words_ to express a particular idea --
+The problem is that of organizing thought fragments into ideas,
+forming a series of related ideas into an argument, and weaving that argument
+into the context of a conversation, ALL THE WHILE using appropriate language so as to
+ensure that your ideas are not misconstrued.
+
+[Here is an example](https://www.youtube.com/watch?v=QhOqZVeaRZs&t=224){:target="_blank"}  
+
+Pay close attention to what Echo says to Jocko at around 3:45
+
+> "When you talk, it. like..., you're not saying fluff you know... when you talk it's like something."
+
+"when you talk **it**'s like **something**". What is "**something**"? What is "**it**"?  
+
+This is what Echo was trying to say:
+
+> "When you speak, you do so with purpose -- there's no fluff obscuring the point you're trying to make."
+
+**something** = "the point you're trying to make". **it** = "the act of speaking with purpose"
+
+Echo failed at Step (1). He didn't organize his thought fragments and got lost
+**trying to speak before he had completed his thought**.
+His statement wasn't **impactful** because he left us with the ingredients of a thought, and we
+had to do the work of putting those ingredients together. Your audience does not want to work
+to understand what you're trying to say. The key to elegant speech is to paint
+a picture in which your ideas are obvious -- your audience should not have to decipher your words,
+nor should they have to fill in any gaps in your argument.
+
+One of the reasons I'm starting this blog is to practice organizing and conveying ideas. As a programmer,
+I don't do this nearly as often as I ought to. I will elaborate on this in future posts.
+
