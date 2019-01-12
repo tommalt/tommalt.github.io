@@ -8,7 +8,10 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.5"
+#gem "jekyll", "~> 3.8.5"
+
+# Github Sites
+gem "github-pages", 193, group: :jekyll_plugins
 
 gem 'jekyll-sass-converter'
 
@@ -30,5 +33,3 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# Github Sites
-gem "github-pages", group: :jekyll_plugins
