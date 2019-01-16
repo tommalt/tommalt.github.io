@@ -15,7 +15,7 @@ body {
 }
 
 /* adds vertical spacing between elements */
-h1, h2, h3, h4, h5, h6,
+h1, h2, h3, h4, h5, h6, hr,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -154,3 +154,11 @@ blockquote {
   padding-top: 10%;
 }
 
+/**
+ * Center <blockquote> in posts
+ */
+.post-content blockquote {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
