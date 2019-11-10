@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-It's me, Tom. I study math at Baruch College in NYC, and I'm interested in software engineering.
-On this site I talk about that sort of stuff in addition to some [of my other interests](/)
+Software guy.  
+located in NY.  
+_Photography coming soon_.  
+Here I discuss philosophy, theology, business, and technology.
 
-T H I S  I S  A  H U M A N.T H I S  I S  W H A T  W E  L O O K  L I K E.T H I S  I S  W H A T  W E  A C T  L I K E  
+<img src="/me.jpg" title="THIS IS A HUMAN THIS IS WHAT WE LOOK LIKE THIS IS WHAT WE ACT LIKE" alt="THIS IS A HUMAN THIS IS WHAT WE LOOK LIKE THIS IS WHAT WE ACT LIKE" style="width:520px;height600px">
 
-<img src="/me.jpg" title="alien life form" alt="alien life form" style="width:520px;height600px">
+My name is Tom.  
+
+Contact: t h o m a s m a l t e s e 6 4 [ at ] gmail

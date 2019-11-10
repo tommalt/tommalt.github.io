@@ -41,15 +41,17 @@ li {
 
 /* links */
 a {
+  display: inline-block;
   color: $shadow-color;
   text-decoration: none;
 }
 
 a:hover {
+  display: inline-block;
   color: $text-color;
   text-decoration: underline;
   font-weight: bold;
-  font-size: 120%;
+  -webkit-transform: scale(1.2);
 }
 
 /* blockquote */
