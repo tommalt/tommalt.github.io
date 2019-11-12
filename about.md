@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Software guy.  
-located in NY.  
+Software.  
+NYC.  
 _Photography coming soon_.  
 Here I discuss philosophy, theology, business, and technology.
 
