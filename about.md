@@ -13,4 +13,5 @@ Here I discuss philosophy, theology, business, and technology.
 
 My name is Tom.  
 
-Contact: t h o m a s m a l t e s e 6 4 [ at ] gmail
+Contact: \<the name below\> [ at ] gmail  
+\<thomasmaltese64\>
