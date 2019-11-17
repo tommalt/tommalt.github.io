@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dante's Virtuous Pagans
+permalink: dantes-virtuous-pagans
 ---
 
 Dante Alighieri opens Canto IV of _The Inferno_ with the scene of Dante the Pilgrim

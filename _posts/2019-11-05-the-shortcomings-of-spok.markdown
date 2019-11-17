@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Shortcomings of Spok
+permalink: /the-shortcomings-of-spok
 ---
 
 > War belongs not to the province of Arts and Sciences, but to the province

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Art of Combination
+permalink: /the-art-of-combination
 ---
 
 "The acme of strategic ability is displayed in
