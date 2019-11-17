@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career Advice from a Prussian General
+title: The Shortcomings of Spok
 ---
 
 > War belongs not to the province of Arts and Sciences, but to the province

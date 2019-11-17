@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Shortcomings of Spok
+title: The Art of Combination
 ---
 
 "The acme of strategic ability is displayed in
