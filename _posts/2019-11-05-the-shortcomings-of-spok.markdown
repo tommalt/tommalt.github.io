@@ -82,4 +82,5 @@ As stated in the beginning, War is akin to business competition.
 In the next article, we will use what we have concluded here to explore the application of
 von Clausewitz's ideas to the world of business.
 
-
+References  
+[1] [On War, Carl von Clausewitz](https://www.amazon.com/War-Complete-translated-J-Graham/dp/1420957198/ref=sr_1_1_sspa?crid=38SN5H7J052MP&keywords=on+war+clausewitz&qid=1574025587&sprefix=on+war%2Caps%2C183&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVUVHMUpUODFDU000JmVuY3J5cHRlZElkPUEwMTEzODMzMUFIWTNEUzM5VkUxJmVuY3J5cHRlZEFkSWQ9QTA2MjE5ODNKNjlBSTJHOFQxUUwmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl){:target="_blank"}
