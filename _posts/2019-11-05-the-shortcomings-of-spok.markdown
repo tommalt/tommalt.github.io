@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Shortcomings of Spok
+title: The Shortcomings of Spock
 permalink: /the-shortcomings-of-spok
 ---
 
